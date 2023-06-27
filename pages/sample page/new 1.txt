@@ -1,5 +1,12 @@
 Basic and usefull info
-
+<section >
+        
+                        <amp-img src="assets/images/mobile.jpg" layout="responsive" width="600" height="300" >
+                        
+                        </amp-img>
+                    
+            
+</section>
 
 In content image ---------
 
